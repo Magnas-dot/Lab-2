@@ -1,4 +1,4 @@
-## Write a program to create a tuple of n numbers, then find:
+##6 Write a program to create a tuple of n numbers, then find:
 ##a. The average of the numbers
 ##b. The median
 ##c. The mode (without using libraries)
