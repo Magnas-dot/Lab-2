@@ -1,4 +1,4 @@
-#Write a program to simulate a basic stack and queue using a list.
+#4 Write a program to simulate a basic stack and queue using a list.
 #Provide options to push, pop (stack), enqueue, and dequeue (queue).
 
 queue=[]
