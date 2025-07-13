@@ -15,6 +15,7 @@ result=[]
 for k in merge:
     if k not in common:
         result.append(k)
-print(l1,l2)
-print(result)
+print("first list:",l1)
+print("Second list:",l2)
+print("Result list without common elements:",result)
     
